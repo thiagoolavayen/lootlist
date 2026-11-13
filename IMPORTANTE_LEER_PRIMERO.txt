@@ -1,0 +1,14 @@
+LOOTLIST PARA LA ENTREGA - SIN CONFIRMACION POR CORREO
+
+1. Entrá a https://supabase.com/dashboard/project/xdxkfshxmmghmbrtwrer/auth/providers
+2. Authentication > Providers (o Sign In / Providers) > Email.
+3. Dejá Email habilitado y DESACTIVÁ Confirm email; guardá.
+4. Abrí ESTA carpeta LOOTLIST en VS Code y lanzá index.html con Live Server.
+5. Registrá una cuenta nueva: quedará conectada automáticamente SIN verificar el correo.
+6. Hacé pruebas con dos usuarios.
+
+IMPORTANTE: la configuración Confirm email es del proyecto de Supabase y NO puede modificarse solo con HTML/JS.
+Conservamos cuentas y contraseña porque la profesora exige login y permisos de propietario.
+No elimines RLS ni uses claves service_role en la web.
+
+Si una cuenta se creó previamente pero quedó pendiente de confirmación, usá otra dirección de prueba después de apagar Confirm email, o confirmá la antigua.

@@ -1,0 +1,8 @@
+LOOTLIST - Corrección de caché y diagnóstico (13/11/2026)
+
+1. Se mantiene la URL https://xdxkfshxmmghmbrtwrer.supabase.co y el bucket portadas.
+2. La nueva versión invalida el caché de main.js, auth.js, series.js y supabaseClient.js mediante ?v=20261113-3.
+3. El Service Worker v3 intenta cargar siempre JS, CSS y HTML desde la red, eliminando los cachés anteriores al activarse.
+4. Si aparece de nuevo Bucket not found, la aplicación muestra a qué proyecto está conectada.
+
+IMPORTANTE: Abrí ESTA carpeta nueva, no la anterior. Cerrá la pestaña vieja. Para limpiar manualmente datos viejos en Chrome: F12 -> Application -> Service Workers -> Unregister, luego Storage -> Clear site data, y recargá. Esto puede cerrar tu sesión. En Live Server puede aparecer como http://127.0.0.1:5500 o http://localhost:5500.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Portada de videojuego sin imagen">
+ <defs><radialGradient id="g"><stop stop-color="#515278"/><stop offset="1" stop-color="#20243a"/></radialGradient></defs>
+ <rect width="960" height="600" fill="url(#g)"/><circle cx="480" cy="300" r="220" fill="none" stroke="#8482b4" stroke-opacity=".38" stroke-width="3"/><circle cx="480" cy="300" r="160" fill="none" stroke="#ceea9b" stroke-opacity=".3" stroke-width="3"/>
+ <path d="M365 240h230c40 0 64 25 75 70l15 71c8 36-20 62-52 43l-61-48H388l-61 48c-32 19-60-7-52-43l15-71c11-45 35-70 75-70z" stroke="#d8ed94" stroke-width="13" fill="#2d354c"/>
+ <path d="M367 290v67m-33-33h66" stroke="#d8ed94" stroke-width="15" stroke-linecap="round"/><circle cx="564" cy="293" r="13" fill="#b6a7f6"/><circle cx="606" cy="331" r="13" fill="#b6a7f6"/>
+ <text x="480" y="510" fill="#e0e3f0" font-family="Arial,sans-serif" font-weight="bold" font-size="35" letter-spacing="6" text-anchor="middle">LOOTLIST</text>
+</svg>

@@ -1,0 +1,5 @@
+Conexion corregida para thiagoolavayen's Project (Supabase).
+El bucket portadas ya existe y es publico.
+No vuelvas a ejecutar schema.sql; ya esta configurado.
+Abrir index.html con Live Server, recargar pagina y probar una portada con usuario autenticado.
+Si abriste una copia anterior de LOOTLIST, reemplazala por esta carpeta completa.
